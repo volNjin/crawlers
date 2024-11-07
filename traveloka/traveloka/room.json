@@ -1,0 +1,14 @@
+[
+{"homename": "Miah Boutique Homestay", "roomtype": "Superior Twin Shared Bathroom With City View", "roomsize": "18.0", "facilities": ["Vòi Tắm Đứng", "Tủ Lạnh", "Khu Vực Chờ", "Máy Lạnh"], "availables": [{"occupancy": "2", "price": "850.000"}]},
+{"homename": "Miah Boutique Homestay", "roomtype": "Superior Double Shared Bathroom With City View", "roomsize": "18.0", "facilities": ["Vòi Tắm Đứng", "Tủ Lạnh", "Khu Vực Chờ", "Máy Lạnh"], "availables": [{"occupancy": "2", "price": "850.000"}]},
+{"homename": "Miah Boutique Homestay", "roomtype": "Superior Triple Shared Bathroom", "roomsize": "18.0", "facilities": ["Vòi Tắm Đứng", "Tủ Lạnh", "Khu Vực Chờ", "Máy Lạnh"], "availables": [{"occupancy": "3", "price": "1.000.000"}]},
+{"homename": "Miah Boutique Homestay", "roomtype": "Deluxe Private Bathroom", "roomsize": "18.0", "facilities": ["Vòi Tắm Đứng", "Ban Công / Sân Hiên", "Tủ Lạnh", "Khu Vực Chờ", "Nước Nóng", "Máy Lạnh"], "availables": [{"occupancy": "2", "price": "1.000.000"}]},
+{"homename": "Miah Boutique Homestay", "roomtype": "Deluxe Balcony", "roomsize": "18.0", "facilities": ["Vòi Tắm Đứng", "Ban Công / Sân Hiên", "Tủ Lạnh", "Khu Vực Chờ", "Nước Nóng", "Máy Lạnh"], "availables": [{"occupancy": "2", "price": "1.050.000"}]},
+{"homename": "Miah Boutique Homestay", "roomtype": "Superior Family Shared Bathroom", "roomsize": "18.0", "facilities": ["Vòi Tắm Đứng", "Tủ Lạnh", "Khu Vực Chờ", "Máy Lạnh"], "availables": [{"occupancy": "4", "price": "1.100.000"}]},
+{"homename": "Harmony Homestay", "roomtype": "Chill Art Studio", "roomsize": "15.0", "facilities": ["Vòi Tắm Đứng", "Tủ Lạnh", "Khu Vực Chờ", "Máy Lạnh"], "availables": [{"occupancy": "2", "price": "652.000"}]},
+{"homename": "Lumos Home", "roomtype": "Day Use Superior 2 Hours Use", "roomsize": "25.0", "facilities": ["Vòi Tắm Đứng", "Máy Lạnh"], "availables": [{"occupancy": "2", "price": "180.000"}]},
+{"homename": "Crin House Homestay", "roomtype": "Romantic Twin Garden View", "roomsize": "25.0", "facilities": ["Vòi Tắm Đứng", "Nước Nóng", "Máy Lạnh"], "availables": [{"occupancy": "1", "price": "500.000"}]},
+{"homename": "Cactus Homestay", "roomtype": "Double", "roomsize": "20.0", "facilities": ["Vòi Tắm Đứng", "Máy Lạnh"], "availables": [{"occupancy": "2", "price": "450.000"}]},
+{"homename": "Libré Homestay Dao Tan", "roomtype": "Standard", "roomsize": "26.0", "facilities": ["Vòi Tắm Đứng", "Nhà Bếp", "Tủ Lạnh", "Máy Lạnh"], "availables": [{"occupancy": "2", "price": "472.360"}]},
+{"homename": "Ruby Lakeview Homestay", "roomtype": "Deluxe", "roomsize": "18.0", "facilities": ["Máy Giặt", "Máy Lạnh"], "availables": [{"occupancy": "2", "price": "449.000"}]}
+]

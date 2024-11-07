@@ -1,0 +1,292 @@
+{
+    "cities": [
+        {
+            "vn": "Hà Nội",
+            "en": "Ha Noi"
+        },
+        {
+            "vn": "Hồ Chí Minh",
+            "en": "Ho Chi Minh"
+        },
+        {
+            "vn": "Đà Nẵng",
+            "en": "Da Nang"
+        },
+        {
+            "vn": "Hải Phòng",
+            "en": "Hai Phong"
+        },
+        {
+            "vn": "Cần Thơ",
+            "en": "Can Tho"
+        },
+        {
+            "vn": "Nha Trang",
+            "en": "Nha Trang"
+        },
+        {
+            "vn": "Biên Hòa",
+            "en": "Bien Hoa"
+        },
+        {
+            "vn": "Huế",
+            "en": "Hue"
+        },
+        {
+            "vn": "Đà Lạt",
+            "en": "Da Lat"
+        },
+        {
+            "vn": "Hội An",
+            "en": "Hoi An"
+        },
+        {
+            "vn": "Vũng Tàu",
+            "en": "Vung Tau"
+        },
+        {
+            "vn": "Quy Nhơn",
+            "en": "Quy Nhon"
+        },
+        {
+            "vn": "Ninh Bình",
+            "en": "Ninh Binh"
+        },
+        {
+            "vn": "Sa Pa",
+            "en": "Sa Pa"
+        },
+        {
+            "vn": "Phan Thiết",
+            "en": "Phan Thiet"
+        },
+        {
+            "vn": "Hà Giang",
+            "en": "Ha Giang"
+        },
+        {
+            "vn": "Hạ Long",
+            "en": "Ha Long"
+        },
+        {
+            "vn": "Cao Bằng",
+            "en": "Cao Bang"
+        },
+        {
+            "vn": "Quảng Ninh",
+            "en": "Quang Ninh"
+        },
+        {
+            "vn": "Phú Quốc",
+            "en": "Phu Quoc"
+        },
+        {
+            "vn": "Mũi Né",
+            "en": "Mui Ne"
+        },
+        {
+            "vn": "Hòa Bình",
+            "en": "Hoa Binh"
+        },
+        {
+            "vn": "Bắc Kạn",
+            "en": "Bac Kan"
+        },
+        {
+            "vn": "Lạng Sơn",
+            "en": "Lang Son"
+        },
+        {
+            "vn": "Hà Nam",
+            "en": "Ha Nam"
+        },
+        {
+            "vn": "Thái Bình",
+            "en": "Thai Binh"
+        },
+        {
+            "vn": "Nam Định",
+            "en": "Nam Dinh"
+        },
+        {
+            "vn": "Ninh Bình",
+            "en": "Ninh Binh"
+        },
+        {
+            "vn": "Thanh Hóa",
+            "en": "Thanh Hoa"
+        },
+        {
+            "vn": "Nghệ An",
+            "en": "Nghe An"
+        },
+        {
+            "vn": "Hà Tĩnh",
+            "en": "Ha Tinh"
+        },
+        {
+            "vn": "Quảng Bình",
+            "en": "Quang Binh"
+        },
+        {
+            "vn": "Quảng Trị",
+            "en": "Quang Tri"
+        },
+        {
+            "vn": "Quảng Nam",
+            "en": "Quang Nam"
+        },
+        {
+            "vn": "Quảng Ngãi",
+            "en": "Quang Ngai"
+        },
+        {
+            "vn": "Bình Định",
+            "en": "Binh Dinh"
+        },
+        {
+            "vn": "Phú Yên",
+            "en": "Phu Yen"
+        },
+        {
+            "vn": "Khánh Hòa",
+            "en": "Khanh Hoa"
+        },
+        {
+            "vn": "Ninh Thuận",
+            "en": "Ninh Thuan"
+        },
+        {
+            "vn": "Bình Thuận",
+            "en": "Binh Thuan"
+        },
+        {
+            "vn": "Lâm Đồng",
+            "en": "Lam Dong"
+        },
+        {
+            "vn": "Đồng Nai",
+            "en": "Dong Nai"
+        },
+        {
+            "vn": "Bình Dương",
+            "en": "Binh Duong"
+        },
+        {
+            "vn": "Long An",
+            "en": "Long An"
+        },
+        {
+            "vn": "Tiền Giang",
+            "en": "Tien Giang"
+        },
+        {
+            "vn": "Bến Tre",
+            "en": "Ben Tre"
+        },
+        {
+            "vn": "Trà Vinh",
+            "en": "Tra Vinh"
+        },
+        {
+            "vn": "Vĩnh Long",
+            "en": "Vinh Long"
+        },
+        {
+            "vn": "Đồng Tháp",
+            "en": "Dong Thap"
+        },
+        {
+            "vn": "An Giang",
+            "en": "An Giang"
+        },
+        {
+            "vn": "Kiên Giang",
+            "en": "Kien Giang"
+        },
+        {
+            "vn": "Hậu Giang",
+            "en": "Hau Giang"
+        },
+        {
+            "vn": "Sóc Trăng",
+            "en": "Soc Trang"
+        },
+        {
+            "vn": "Bạc Liêu",
+            "en": "Bac Lieu"
+        },
+        {
+            "vn": "Cà Mau",
+            "en": "Ca Mau"
+        },
+        {
+            "vn": "Lào Cai",
+            "en": "Lao Cai"
+        },
+        {
+            "vn": "Điện Biên",
+            "en": "Dien Bien"
+        },
+        {
+            "vn": "Lai Châu",
+            "en": "Lai Chau"
+        },
+        {
+            "vn": "Sơn La",
+            "en": "Son La"
+        },
+        {
+            "vn": "Yên Bái",
+            "en": "Yen Bai"
+        },
+        {
+            "vn": "Tuyên Quang",
+            "en": "Tuyen Quang"
+        },
+        {
+            "vn": "Bắc Giang",
+            "en": "Bac Giang"
+        },
+        {
+            "vn": "Phú Thọ",
+            "en": "Phu Tho"
+        },
+        {
+            "vn": "Vĩnh Phúc",
+            "en": "Vinh Phuc"
+        },
+        {
+            "vn": "Bắc Ninh",
+            "en": "Bac Ninh"
+        },
+        {
+            "vn": "Hải Dương",
+            "en": "Hai Duong"
+        },
+        {
+            "vn": "Hưng Yên",
+            "en": "Hung Yen"
+        },
+        {
+            "vn": "Mộc Châu",
+            "en": "Moc Chau"
+        },
+        {
+            "vn": "Sa Đéc",
+            "en": "Sa Dec"
+        },
+        {
+            "vn": "Châu Đốc",
+            "en": "Chau Doc"
+        },
+        {
+            "vn": "Sóc Sơn",
+            "en": "Soc Son"
+        },
+        {
+            "vn": "Ba Vì",
+            "en": "Ba Vi"
+        }
+    ]
+}

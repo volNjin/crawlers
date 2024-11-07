@@ -1,0 +1,8 @@
+"filename", "language", "Batch", "Python", "Shell Script", "PowerShell", "comment", "blank", "total"
+"d:\Code\crawlers\Scripts\activate.bat", "Batch", -29, 0, 0, 0, -3, -6, -38
+"d:\Code\crawlers\Scripts\activate.fish", "Shell Script", 0, 0, -68, 0, -14, -19, -101
+"d:\Code\crawlers\Scripts\activate.ps1", "PowerShell", 0, 0, 0, -46, -4, -11, -61
+"d:\Code\crawlers\Scripts\activate_this.py", "Python", 0, -23, 0, 0, -2, -9, -34
+"d:\Code\crawlers\Scripts\deactivate.bat", "Batch", -13, 0, 0, 0, -1, -4, -18
+"d:\Code\crawlers\Scripts\pydoc.bat", "Batch", -1, 0, 0, 0, 0, -1, -2
+"Total", "-", -43, -23, -68, -46, -24, -50, -254

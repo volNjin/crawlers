@@ -1,0 +1,68 @@
+Date : 2024-06-25 00:24:02
+Directory : d:\Code\crawlers
+Total : 31 files,  3030 codes, 343 comments, 272 blanks, all 3645 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          9 |      1,726 |          0 |          4 |      1,730 |
+| Python     |         20 |      1,296 |        333 |        262 |      1,891 |
+| Properties |          2 |          8 |         10 |          6 |         24 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                        |         31 |      3,030 |        343 |        272 |      3,645 |
+| . (Files)                                                |          9 |      1,780 |         60 |        109 |      1,949 |
+| booking                                                  |         10 |        601 |        143 |         82 |        826 |
+| booking (Files)                                          |          1 |          4 |          5 |          3 |         12 |
+| booking\crawlers                                         |          9 |        597 |        138 |         79 |        814 |
+| booking\crawlers (Files)                                 |          7 |        367 |        124 |         59 |        550 |
+| booking\crawlers\spiders                                 |          2 |        230 |         14 |         20 |        264 |
+| traveloka                                                |         12 |        649 |        140 |         81 |        870 |
+| traveloka (Files)                                        |          1 |          4 |          5 |          3 |         12 |
+| traveloka\traveloka                                      |         11 |        645 |        135 |         78 |        858 |
+| traveloka\traveloka (Files)                              |          9 |        395 |        125 |         60 |        580 |
+| traveloka\traveloka\spiders                              |          2 |        250 |         10 |         18 |        278 |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                 | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\Code\crawlers\booking\crawlers\__init__.py            | Python     |          0 |          0 |          1 |          1 |
+| d:\Code\crawlers\booking\crawlers\cities.json            | JSON       |        292 |          0 |          0 |        292 |
+| d:\Code\crawlers\booking\crawlers\home.json              | JSON       |          0 |          0 |          1 |          1 |
+| d:\Code\crawlers\booking\crawlers\items.py               | Python     |         28 |          6 |          9 |         43 |
+| d:\Code\crawlers\booking\crawlers\middlewares.py         | Python     |         34 |         45 |         25 |        104 |
+| d:\Code\crawlers\booking\crawlers\pipelines.py           | Python     |          4 |          5 |          5 |         14 |
+| d:\Code\crawlers\booking\crawlers\settings.py            | Python     |          9 |         68 |         18 |         95 |
+| d:\Code\crawlers\booking\crawlers\spiders\__init__.py    | Python     |          0 |          4 |          1 |          5 |
+| d:\Code\crawlers\booking\crawlers\spiders\booking.py     | Python     |        230 |         10 |         19 |        259 |
+| d:\Code\crawlers\booking\scrapy.cfg                      | Properties |          4 |          5 |          3 |         12 |
+| d:\Code\crawlers\combine_db.py                           | Python     |        400 |          5 |         42 |        447 |
+| d:\Code\crawlers\combined_home.json                      | JSON       |          1 |          0 |          0 |          1 |
+| d:\Code\crawlers\package-lock.json                       | JSON       |      1,113 |          0 |          1 |      1,114 |
+| d:\Code\crawlers\package.json                            | JSON       |          5 |          0 |          1 |          6 |
+| d:\Code\crawlers\scheduler.py                            | Python     |         13 |          4 |          8 |         25 |
+| d:\Code\crawlers\script.py                               | Python     |         33 |         16 |         18 |         67 |
+| d:\Code\crawlers\sentiment_analyzer.py                   | Python     |        154 |         30 |         29 |        213 |
+| d:\Code\crawlers\tool.py                                 | Python     |         18 |          5 |          8 |         31 |
+| d:\Code\crawlers\tool2.py                                | Python     |         43 |          0 |          2 |         45 |
+| d:\Code\crawlers\traveloka\scrapy.cfg                    | Properties |          4 |          5 |          3 |         12 |
+| d:\Code\crawlers\traveloka\traveloka\__init__.py         | Python     |          0 |          0 |          1 |          1 |
+| d:\Code\crawlers\traveloka\traveloka\cities.json         | JSON       |        292 |          0 |          0 |        292 |
+| d:\Code\crawlers\traveloka\traveloka\home.json           | JSON       |          0 |          0 |          1 |          1 |
+| d:\Code\crawlers\traveloka\traveloka\homes.json          | JSON       |          9 |          0 |          0 |          9 |
+| d:\Code\crawlers\traveloka\traveloka\items.py            | Python     |         28 |          6 |          8 |         42 |
+| d:\Code\crawlers\traveloka\traveloka\middlewares.py      | Python     |         34 |         45 |         25 |        104 |
+| d:\Code\crawlers\traveloka\traveloka\pipelines.py        | Python     |          4 |          5 |          5 |         14 |
+| d:\Code\crawlers\traveloka\traveloka\room.json           | JSON       |         14 |          0 |          0 |         14 |
+| d:\Code\crawlers\traveloka\traveloka\settings.py         | Python     |         14 |         69 |         20 |        103 |
+| d:\Code\crawlers\traveloka\traveloka\spiders\__init__.py | Python     |          0 |          4 |          1 |          5 |
+| d:\Code\crawlers\traveloka\traveloka\spiders\crawler.py  | Python     |        250 |          6 |         17 |        273 |
+| Total                                                    |            |      3,030 |        343 |        272 |      3,645 |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
